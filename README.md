@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Gupta</h1>
-<h3 align="center">I am a passionate UI/UX Designer and Full Stack Developer with a Krishna interest in creating intuitive and engaging user experiences. I enjoy exploring both the frontend and backend aspects of web development to deliver seamless digital solutions.</h3>
+<h3 align="center">I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keensha&label=Profile%20views&color=0e75b6&style=flat" alt="keensha" /> </p>
 
