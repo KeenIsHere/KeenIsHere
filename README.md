@@ -11,13 +11,9 @@
 
 - 🤝 I’m looking for help with **C++ Game Development**
 
-- 👨‍💻 All of my projects are available at [Loading..](Loading..)
-
 - 💬 Ask me about **mongodb, Postgresql**
 
 - 📫 How to reach me **kn.keen.s24@gmail.com**
-
-- 📄 Know about my experiences [Loading...](Loading...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
