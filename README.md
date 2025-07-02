@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Restaurant Website**
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **ReactJs, NodeJs**
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
