@@ -15,6 +15,13 @@
 
 - 📫 How to reach me **kn.keen.s24@gmail.com**
 
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
