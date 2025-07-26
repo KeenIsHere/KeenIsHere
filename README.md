@@ -50,4 +50,69 @@
 <a href="https://instagram.com/its_me_unakrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_unakrish" height="30" width="40" /></a>
 </p>
 
+# 🏆 Professional Certifications
+
+## 📚 LinkedIn Learning Certifications
+
+### Web Development & Programming
+🌐 **Succeeding in Web Development: Full Stack and Front End**  
+📅 *Completed: November 9, 2024*  
+⏱️ *Duration: 1 hour 3 minutes*  
+🔗 *Certificate ID: 233bb4987a700ed16d86604ad9512b3c8fcdadbef6058c8caac901920a81e8c4*  
+📝 *Skills: Full-Stack Development, Front-End Development*
+
+💻 **HTML Essential Training (2020)**  
+📅 *Completed: November 9, 2024*  
+⏱️ *Duration: 2 hours 45 minutes*  
+🔗 *Certificate ID: 77d69b66ef74a9e4789ec1697c6fea55f5cee24e48d60d34c7b8277901bbe5da*  
+📝 *Skills: HTML*
+
+🔧 **Programming Foundations: Fundamentals**  
+📅 *Completed: September 22, 2024*  
+⏱️ *Duration: 3 hours 11 minutes*  
+🔗 *Certificate ID: de5454bca6251eb1de4e264d11c20af37d247aae07dfea69d1621beef6b04956*  
+📝 *Skills: Programming*
+
+### Database Development
+🗄️ **Programming Foundations: Databases**  
+📅 *Completed: October 3, 2024*  
+⏱️ *Duration: 2 hours 26 minutes*  
+🔗 *Certificate ID: b34fb2768ab9c9648ab487cce3304959abaa945c27f47192af17919be8260b10*  
+📝 *Skills: Database Development, Databases*
+
+### Design & UI/UX
+🎨 **Figma Essential Training: The Basics**  
+📅 *Completed: May 23, 2024*  
+⏱️ *Duration: 1 hour 37 minutes*  
+🔗 *Certificate ID: 69c4f1bd6f607f68122e121a22a0d65695d3f1e6e22df7b8d69a73360d62b977*  
+📝 *Skills: Figma (Software)*
+
+---
+
+## 📊 Certification Summary
+- **Total Certifications:** 5
+- **Total Learning Hours:** 10+ hours
+- **Focus Areas:** Web Development, Programming Fundamentals, Database Development, UI/UX Design
+- **Latest Certification:** November 2024
+- **Certification Provider:** LinkedIn Learning
+
+> 💡 All certifications are from LinkedIn Learning and can be verified using the provided Certificate IDs.
+## 🏆 Certifications
+
+| Certification | Completion Date | Duration | Skills Covered | Certificate ID |
+|---------------|----------------|----------|----------------|----------------|
+| Succeeding in Web Development: Full Stack and Front End | Nov 9, 2024 | 1h 3m | Full-Stack & Front-End Development | 233bb498... |
+| HTML Essential Training (2020) | Nov 9, 2024 | 2h 45m | HTML | 77d69b66... |
+| Programming Foundations: Databases | Oct 3, 2024 | 2h 26m | Database Development | b34fb276... |
+| Programming Foundations: Fundamentals | Sep 22, 2024 | 3h 11m | Programming | de5454bc... |
+| Figma Essential Training: The Basics | May 23, 2024 | 1h 37m | Figma (Software) | 69c4f1bd... |
+
+
+
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Web_Development-blue?style=for-the-badge&logo=linkedin)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-HTML-orange?style=for-the-badge&logo=linkedin)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Databases-green?style=for-the-badge&logo=linkedin)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Programming-red?style=for-the-badge&logo=linkedin)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Figma-purple?style=for-the-badge&logo=linkedin)
+
  
