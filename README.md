@@ -20,43 +20,11 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-# 👋 Hi, I'm Krishna Kumar Gupta
 
 ## 🎓 Professional Certifications & Learning Journey
 
 I'm passionate about continuous learning and staying updated with the latest technologies in web development. Below are my recent certifications that demonstrate my commitment to professional growth and technical expertise.
 
----
-
-## 📁 Repository Structure
-
-Your repository is perfectly organized! The certificate files are directly in the root directory:
-
-```
-KeenIsHere/certificates/
-├── README.md
-├── CertificateOfCompletion_Career Essentials in GitHub Professional Certificate (2).pdf
-├── CertificateOfCompletion_CSS Essential Training.pdf
-├── CertificateOfCompletion_Django Essential Training.pdf
-├── CertificateOfCompletion_Figma Essential Training The Basics.pdf
-├── CertificateOfCompletion_HTML Essential Training 2020.pdf
-├── CertificateOfCompletion_HTML Essential Training.pdf
-├── CertificateOfCompletion_JavaScript Essential Training.pdf
-├── CertificateOfCompletion_Learning ECMAScript 6 ES6.pdf
-├── CertificateOfCompletion_Practical GitHub Actions.pdf
-├── CertificateOfCompletion_Practical GitHub Code Search.pdf
-├── CertificateOfCompletion_Practical GitHub Copilot.pdf
-├── CertificateOfCompletion_Practical GitHub Project Management and Collaboration.pdf
-├── CertificateOfCompletion_Programming Foundations Databases.pdf
-├── CertificateOfCompletion_Programming Foundations Fundamentals.pdf
-├── CertificateOfCompletion_React Essential Training (1).pdf
-├── CertificateOfCompletion_Search Techniques for Web Developers.pdf
-└── CertificateOfCompletion_Succeeding in Web Development Full Stack and Front End.pdf
-```
-
-All certificate links are now updated to match your exact file names and will work perfectly! 🎉
-
----
 
 ## 🚀 Recent Achievements (2025)
 
