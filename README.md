@@ -20,7 +20,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-# 👋 Hi, I'm Krishna Kumar Gupta
 
 ## 🎓 Professional Certifications & Learning Journey
 
