@@ -21,6 +21,106 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🎓 Professional Certifications & Learning Journey
+
+I'm passionate about continuous learning and staying updated with the latest technologies in web development. Below are my recent certifications that demonstrate my commitment to professional growth and technical expertise.
+
+---
+
+## 🚀 Recent Achievements (2025)
+
+### GitHub Expertise
+| Course | Skills Covered | Duration | Completion Date | Certificate ID |
+|--------|---------------|----------|-----------------|----------------|
+| **Career Essentials in GitHub Professional Certificate** | GitHub | 4h 18m | Jul 07, 2025 | `b660071a8e5d...` |
+| **Practical GitHub Actions** | GitHub | 1h 19m | Jul 06, 2025 | `349156173187...` |
+| **Practical GitHub Code Search** | GitHub | 40m | Jul 07, 2025 | `178bb7e8a76e...` |
+| **Practical GitHub Copilot** | GitHub, GitHub Copilot | 1h | Jul 07, 2025 | `ecf3db6dfdc3...` |
+| **Practical GitHub Project Management** | GitHub, Project Management | 1.25 PDUs | Jul 07, 2025 | `5d72d1b21cc7...` |
+
+### Frontend Development
+| Course | Skills Covered | Duration | Completion Date | Certificate ID |
+|--------|---------------|----------|-----------------|----------------|
+| **HTML Essential Training** | Web Development, Frontend, HTML | 4h 12m | Jul 06, 2025 | `3cd40e5862c5...` |
+| **CSS Essential Training** | Cascading Style Sheets (CSS) | 5h 26m | Jul 05, 2025 | `f656f34b131b...` |
+| **JavaScript Essential Training** | JavaScript | 6h 14m | Jul 06, 2025 | `d9e1dcefe494...` |
+| **Learning ECMAScript 6+ (ES6+)** | JavaScript, ECMAScript | 1h 27m | Jul 07, 2025 | `478ce9e42af1...` |
+| **React Essential Training** | Web Development, React.js, Frontend | 1h 45m | Jun 29, 2025 | `ad9457150581...` |
+
+### Backend & Full-Stack Development
+| Course | Skills Covered | Duration | Completion Date | Certificate ID |
+|--------|---------------|----------|-----------------|----------------|
+| **Django Essential Training** | Django, Python | 2h 39m | Jun 29, 2025 | `ba12ba92d775...` |
+| **Search Techniques for Web Developers** | Web Application Development, Search | 55m | Jul 06, 2025 | `3ff9b50eb499...` |
+
+---
+
+## 📚 Foundation Knowledge (2024)
+
+### Core Programming & Design
+| Course | Skills Covered | Duration | Completion Date |
+|--------|---------------|----------|-----------------|
+| **Programming Foundations: Fundamentals** | Programming | 3h 10m | Sep 22, 2024 |
+| **Programming Foundations: Databases** | Database Development, Databases | 2h 26m | Oct 03, 2024 |
+| **HTML Essential Training (2020)** | HTML | 2h 45m | Nov 09, 2024 |
+| **Succeeding in Web Development: Full Stack and Front End** | Full-Stack Development, Frontend | 1h 3m | Nov 09, 2024 |
+| **Figma Essential Training: The Basics** | Figma (Software) | 1h 37m | May 23, 2024 |
+
+---
+
+## 🛠️ Technical Skills Summary
+
+### **Frontend Technologies**
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### **Backend Technologies**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### **Tools & Version Control**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### **Database & Development**
+- ![Databases](https://img.shields.io/badge/Databases-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![Full Stack Development](https://img.shields.io/badge/Full_Stack-4CAF50?style=flat-square&logo=stackblitz&logoColor=white)
+
+---
+
+## 📈 Learning Statistics
+
+- **Total Courses Completed:** 17
+- **Total Learning Hours:** 40+ hours
+- **Focus Areas:** Full-Stack Web Development, Version Control, Modern JavaScript
+- **Latest Achievement:** GitHub Professional Certificate (July 2025)
+- **PMI Certification:** 1.25 PDUs in Project Management
+
+---
+
+## 🎯 Current Learning Focus
+
+I'm continuously expanding my skill set with a focus on:
+- Modern web development practices
+- Advanced GitHub workflows and collaboration
+- Full-stack application development
+- Industry best practices and clean code principles
+
+---
+
+## 📫 Let's Connect
+
+I'm always excited to discuss technology, share knowledge, and collaborate on interesting projects. Feel free to reach out!
+
+---
+
+*All certificates are issued by LinkedIn Learning and verified with unique Certificate IDs. This repository serves as a portfolio showcase of my continuous learning journey and commitment to professional development.*
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -49,70 +149,3 @@
 <a href="https://linkedin.com/in/krishna gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/its_me_unakrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_unakrish" height="30" width="40" /></a>
 </p>
-
-# 🏆 Professional Certifications
-
-## 📚 LinkedIn Learning Certifications
-
-### Web Development & Programming
-🌐 **Succeeding in Web Development: Full Stack and Front End**  
-📅 *Completed: November 9, 2024*  
-⏱️ *Duration: 1 hour 3 minutes*  
-🔗 *Certificate ID: 233bb4987a700ed16d86604ad9512b3c8fcdadbef6058c8caac901920a81e8c4*  
-📝 *Skills: Full-Stack Development, Front-End Development*
-
-💻 **HTML Essential Training (2020)**  
-📅 *Completed: November 9, 2024*  
-⏱️ *Duration: 2 hours 45 minutes*  
-🔗 *Certificate ID: 77d69b66ef74a9e4789ec1697c6fea55f5cee24e48d60d34c7b8277901bbe5da*  
-📝 *Skills: HTML*
-
-🔧 **Programming Foundations: Fundamentals**  
-📅 *Completed: September 22, 2024*  
-⏱️ *Duration: 3 hours 11 minutes*  
-🔗 *Certificate ID: de5454bca6251eb1de4e264d11c20af37d247aae07dfea69d1621beef6b04956*  
-📝 *Skills: Programming*
-
-### Database Development
-🗄️ **Programming Foundations: Databases**  
-📅 *Completed: October 3, 2024*  
-⏱️ *Duration: 2 hours 26 minutes*  
-🔗 *Certificate ID: b34fb2768ab9c9648ab487cce3304959abaa945c27f47192af17919be8260b10*  
-📝 *Skills: Database Development, Databases*
-
-### Design & UI/UX
-🎨 **Figma Essential Training: The Basics**  
-📅 *Completed: May 23, 2024*  
-⏱️ *Duration: 1 hour 37 minutes*  
-🔗 *Certificate ID: 69c4f1bd6f607f68122e121a22a0d65695d3f1e6e22df7b8d69a73360d62b977*  
-📝 *Skills: Figma (Software)*
-
----
-
-## 📊 Certification Summary
-- **Total Certifications:** 5
-- **Total Learning Hours:** 10+ hours
-- **Focus Areas:** Web Development, Programming Fundamentals, Database Development, UI/UX Design
-- **Latest Certification:** November 2024
-- **Certification Provider:** LinkedIn Learning
-
-> 💡 All certifications are from LinkedIn Learning and can be verified using the provided Certificate IDs.
-## 🏆 Certifications
-
-| Certification | Completion Date | Duration | Skills Covered | Certificate ID |
-|---------------|----------------|----------|----------------|----------------|
-| Succeeding in Web Development: Full Stack and Front End | Nov 9, 2024 | 1h 3m | Full-Stack & Front-End Development | 233bb498... |
-| HTML Essential Training (2020) | Nov 9, 2024 | 2h 45m | HTML | 77d69b66... |
-| Programming Foundations: Databases | Oct 3, 2024 | 2h 26m | Database Development | b34fb276... |
-| Programming Foundations: Fundamentals | Sep 22, 2024 | 3h 11m | Programming | de5454bc... |
-| Figma Essential Training: The Basics | May 23, 2024 | 1h 37m | Figma (Software) | 69c4f1bd... |
-
-
-
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Web_Development-blue?style=for-the-badge&logo=linkedin)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-HTML-orange?style=for-the-badge&logo=linkedin)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Databases-green?style=for-the-badge&logo=linkedin)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Programming-red?style=for-the-badge&logo=linkedin)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Figma-purple?style=for-the-badge&logo=linkedin)
-
- 
