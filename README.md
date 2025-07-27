@@ -20,51 +20,51 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+# 👋 Hi, I'm Krishna Kumar Gupta
 
 ## 🎓 Professional Certifications & Learning Journey
 
 I'm passionate about continuous learning and staying updated with the latest technologies in web development. Below are my recent certifications that demonstrate my commitment to professional growth and technical expertise.
 
 ---
-
 ## 🚀 Recent Achievements (2025)
 
 ### GitHub Expertise
-| Course | Skills Covered | Duration | Completion Date | Certificate ID |
-|--------|---------------|----------|-----------------|----------------|
-| **Career Essentials in GitHub Professional Certificate** | GitHub | 4h 18m | Jul 07, 2025 | `b660071a8e5d...` |
-| **Practical GitHub Actions** | GitHub | 1h 19m | Jul 06, 2025 | `349156173187...` |
-| **Practical GitHub Code Search** | GitHub | 40m | Jul 07, 2025 | `178bb7e8a76e...` |
-| **Practical GitHub Copilot** | GitHub, GitHub Copilot | 1h | Jul 07, 2025 | `ecf3db6dfdc3...` |
-| **Practical GitHub Project Management** | GitHub, Project Management | 1.25 PDUs | Jul 07, 2025 | `5d72d1b21cc7...` |
+| Course | Skills Covered | Duration | Completion Date | Certificate | View |
+|--------|---------------|----------|-----------------|-------------|------|
+| **Career Essentials in GitHub Professional Certificate** | GitHub | 4h 18m | Jul 07, 2025 | `b660071a8e5d...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](./certificates/github-professional-certificate.pdf) |
+| **Practical GitHub Actions** | GitHub | 1h 19m | Jul 06, 2025 | `349156173187...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](./certificates/github-actions.pdf) |
+| **Practical GitHub Code Search** | GitHub | 40m | Jul 07, 2025 | `178bb7e8a76e...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](./certificates/github-code-search.pdf) |
+| **Practical GitHub Copilot** | GitHub, GitHub Copilot | 1h | Jul 07, 2025 | `ecf3db6dfdc3...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](./certificates/github-copilot.pdf) |
+| **Practical GitHub Project Management** | GitHub, Project Management | 1.25 PDUs | Jul 07, 2025 | `5d72d1b21cc7...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](./certificates/github-project-management.pdf) |
 
 ### Frontend Development
-| Course | Skills Covered | Duration | Completion Date | Certificate ID |
-|--------|---------------|----------|-----------------|----------------|
-| **HTML Essential Training** | Web Development, Frontend, HTML | 4h 12m | Jul 06, 2025 | `3cd40e5862c5...` |
-| **CSS Essential Training** | Cascading Style Sheets (CSS) | 5h 26m | Jul 05, 2025 | `f656f34b131b...` |
-| **JavaScript Essential Training** | JavaScript | 6h 14m | Jul 06, 2025 | `d9e1dcefe494...` |
-| **Learning ECMAScript 6+ (ES6+)** | JavaScript, ECMAScript | 1h 27m | Jul 07, 2025 | `478ce9e42af1...` |
-| **React Essential Training** | Web Development, React.js, Frontend | 1h 45m | Jun 29, 2025 | `ad9457150581...` |
+| Course | Skills Covered | Duration | Completion Date | Certificate | View |
+|--------|---------------|----------|-----------------|-------------|------|
+| **HTML Essential Training** | Web Development, Frontend, HTML | 4h 12m | Jul 06, 2025 | `3cd40e5862c5...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./certificates/html-essential-training.pdf) |
+| **CSS Essential Training** | Cascading Style Sheets (CSS) | 5h 26m | Jul 05, 2025 | `f656f34b131b...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./certificates/css-essential-training.pdf) |
+| **JavaScript Essential Training** | JavaScript | 6h 14m | Jul 06, 2025 | `d9e1dcefe494...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./certificates/javascript-essential-training.pdf) |
+| **Learning ECMAScript 6+ (ES6+)** | JavaScript, ECMAScript | 1h 27m | Jul 07, 2025 | `478ce9e42af1...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./certificates/ecmascript-6-es6.pdf) |
+| **React Essential Training** | Web Development, React.js, Frontend | 1h 45m | Jun 29, 2025 | `ad9457150581...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./certificates/react-essential-training.pdf) |
 
 ### Backend & Full-Stack Development
-| Course | Skills Covered | Duration | Completion Date | Certificate ID |
-|--------|---------------|----------|-----------------|----------------|
-| **Django Essential Training** | Django, Python | 2h 39m | Jun 29, 2025 | `ba12ba92d775...` |
-| **Search Techniques for Web Developers** | Web Application Development, Search | 55m | Jul 06, 2025 | `3ff9b50eb499...` |
+| Course | Skills Covered | Duration | Completion Date | Certificate | View |
+|--------|---------------|----------|-----------------|-------------|------|
+| **Django Essential Training** | Django, Python | 2h 39m | Jun 29, 2025 | `ba12ba92d775...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=flat-square&logo=adobe-acrobat-reader)](./certificates/django-essential-training.pdf) |
+| **Search Techniques for Web Developers** | Web Application Development, Search | 55m | Jul 06, 2025 | `3ff9b50eb499...` | [![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=flat-square&logo=adobe-acrobat-reader)](./certificates/search-techniques-web-developers.pdf) |
 
 ---
 
 ## 📚 Foundation Knowledge (2024)
 
 ### Core Programming & Design
-| Course | Skills Covered | Duration | Completion Date |
-|--------|---------------|----------|-----------------|
-| **Programming Foundations: Fundamentals** | Programming | 3h 10m | Sep 22, 2024 |
-| **Programming Foundations: Databases** | Database Development, Databases | 2h 26m | Oct 03, 2024 |
-| **HTML Essential Training (2020)** | HTML | 2h 45m | Nov 09, 2024 |
-| **Succeeding in Web Development: Full Stack and Front End** | Full-Stack Development, Frontend | 1h 3m | Nov 09, 2024 |
-| **Figma Essential Training: The Basics** | Figma (Software) | 1h 37m | May 23, 2024 |
+| Course | Skills Covered | Duration | Completion Date | View |
+|--------|---------------|----------|-----------------|------|
+| **Programming Foundations: Fundamentals** | Programming | 3h 10m | Sep 22, 2024 | [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=flat-square&logo=adobe-acrobat-reader)](./certificates/programming-foundations-fundamentals.pdf) |
+| **Programming Foundations: Databases** | Database Development, Databases | 2h 26m | Oct 03, 2024 | [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=flat-square&logo=adobe-acrobat-reader)](./certificates/programming-foundations-databases.pdf) |
+| **HTML Essential Training (2020)** | HTML | 2h 45m | Nov 09, 2024 | [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=flat-square&logo=adobe-acrobat-reader)](./certificates/html-essential-training-2020.pdf) |
+| **Succeeding in Web Development: Full Stack and Front End** | Full-Stack Development, Frontend | 1h 3m | Nov 09, 2024 | [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=flat-square&logo=adobe-acrobat-reader)](./certificates/succeeding-web-development.pdf) |
+| **Figma Essential Training: The Basics** | Figma (Software) | 1h 37m | May 23, 2024 | [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=flat-square&logo=adobe-acrobat-reader)](./certificates/figma-essential-training.pdf) |
 
 ---
 
@@ -121,7 +121,6 @@ I'm always excited to discuss technology, share knowledge, and collaborate on in
 ---
 
 *All certificates are issued by LinkedIn Learning and verified with unique Certificate IDs. This repository serves as a portfolio showcase of my continuous learning journey and commitment to professional development.*
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
