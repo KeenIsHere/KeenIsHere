@@ -21,6 +21,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🎓 **Current Academic Journey**
 - 🏫 **Software Engineering Student** - Building the foundation for next-generation tech solutions
@@ -190,8 +193,6 @@ I'm always excited to discuss technology, share knowledge, and collaborate on in
 ---
 
 *All certificates are issued by LinkedIn Learning and verified with unique Certificate IDs. This repository serves as a portfolio showcase of my continuous learning journey and commitment to professional development.*
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KeenIsHere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=KeenIsHere&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeenIsHere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
