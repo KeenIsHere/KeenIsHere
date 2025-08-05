@@ -1,25 +1,95 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Gupta</h1>
-<h3 align="center">I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keensha&label=Profile%20views&color=0e75b6&style=flat" alt="keensha" /> </p>
+<h3 align="center">🚀 Software Engineering Student | 🛡️ Aspiring Certified Ethical Hacker | 💻 Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Restaurant Website**
+<h4 align="center">🎯 Passionate about building secure, innovative solutions while mastering the art of cybersecurity</h4>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Ethical+Hacking+Enthusiast;Tourism+Tech+Innovator;Full-Stack+Developer;Cybersecurity+Advocate" alt="Typing SVG" />
+</p>
 
-- 👯 I’m looking to collaborate on **Open Source Contribution**
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=keensha&label=Profile%20views&color=0e75b6&style=flat" alt="keensha" /> 
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-red" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-green" alt="Status" />
+</p>
 
-- 🤝 I’m looking for help with **C++ Game Development**
-
-- 💬 Ask me about **mongodb, Postgresql**
-
-- 📫 How to reach me **kn.keen.s24@gmail.com**
-
+---
   <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+## 🎓 **Current Academic Journey**
+- 🏫 **Software Engineering Student** - Building the foundation for next-generation tech solutions
+- 🛡️ **Pursuing Certified Ethical Hacker (CEH)** - Mastering cybersecurity to protect digital landscapes
+- 📍 **Based in Pokhara, Nepal** - Where mountains meet technology innovation
+
+## 🚀 **What I'm Building Right Now**
+- 🏔️ **Tourism Application Platform** - Revolutionizing travel experiences in Pokhara through cutting-edge technology (Final Year Project)
+- 🌐 **Web Solutions** - Crafting robust applications for the hospitality and tourism sector
+- 🔐 **Security-First Development** - Integrating ethical hacking principles into every line of code
+
+## 💡 **Technical Arsenal & Learning Path**
+- 🔭 Currently working on: **Next-Gen Tourism Platform for Pokhara**
+- 🌱 Mastering: **ReactJS, NodeJS, Cybersecurity Fundamentals, Penetration Testing**
+- 🛡️ Ethical Hacking Focus: **Vulnerability Assessment, Network Security, Web Application Security**
+- 🎯 Exploring: **Cloud Security, DevSecOps, Blockchain Security**
+
+## 🤝 **Collaboration & Community**
+- 👯 Open to collaborate on: **Open Source Security Tools, Tourism Tech Projects**
+- 🤝 Seeking mentorship in: **Advanced Penetration Testing, Bug Bounty Programs**
+- 💬 Let's discuss: **Ethical Hacking, Secure Coding Practices, MongoDB, PostgreSQL**
+- 🌟 Available for: **Freelance Security Assessments, Web Development Projects**
+
+## 🏆 **Professional Vision**
+> *"Bridging the gap between innovative software development and robust cybersecurity - because the future needs developers who think like ethical hackers."*
+
+**🎯 Career Goals:**
+- 🔐 **Certified Ethical Hacker** - Protecting organizations from cyber threats
+- 💻 **Senior Software Developer** - Building scalable, secure applications
+- 🌐 **Cybersecurity Consultant** - Helping businesses stay secure in the digital age
+
+## 🛠️ **Tech Stack & Security Tools**
+
+### **Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Security & Ethical Hacking**
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24?style=flat-square&logo=metasploit&logoColor=white)
+
+## 🌐 **Connect & Collaborate**
+<p align="center">
+  <a href="mailto:kn.keen.s24@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Wave Footer" />
+</p>
+
+<p align="center">
+  <i>💡 "Code with passion, hack with purpose, build with security in mind." 💡</i>
+</p>
+
 
 ## 🎓 Professional Certifications & Learning Journey
 
