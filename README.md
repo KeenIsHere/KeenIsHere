@@ -96,7 +96,6 @@
 # 🎓 Professional Certifications & Learning Journey
 
 I'm passionate about continuous learning and staying updated with the latest technologies in web development, cybersecurity, and software engineering. Below are my recent certifications that demonstrate my commitment to professional growth and technical expertise.
-
 ---
 
 ## 🚀 Recent Achievements (2025)
