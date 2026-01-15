@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-red" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-green" alt="Status" />
 </p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
   <!-- Snake Game Repo View -->
@@ -20,10 +24,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🎓 **Current Academic Journey**
