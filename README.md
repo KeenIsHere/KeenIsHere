@@ -15,8 +15,7 @@
 </p>
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=KeenIsHere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![trophy](github-profile-trophy.vercel.app)](
 
 ---
   <!-- Snake Game Repo View -->
